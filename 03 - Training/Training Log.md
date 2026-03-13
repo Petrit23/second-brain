@@ -6,3 +6,12 @@
 _(auto-updated by Pi every Sunday)_
 
 ## Notes
+
+## 📈 Current Fitness (2026-03-13)
+- Fitness (CTL): 5.9
+- Fatigue (ATL): 22.2
+- Form (TSB): -16.3
+- HRV: 106 ms
+- Training readiness: 1/100
+
+**Days to 50k Ultra:** 8
