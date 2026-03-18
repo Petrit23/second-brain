@@ -7,14 +7,14 @@ _(auto-updated by Pi every Sunday)_
 
 ## Notes
 
-## 📈 Current Fitness (2026-03-17)
-- Fitness (CTL): 8.0
-- Fatigue (ATL): 25.5
-- Form (TSB): -17.5
-- HRV: 98 ms
+## 📈 Current Fitness (2026-03-18)
+- Fitness (CTL): 10.1
+- Fatigue (ATL): 33.1
+- Form (TSB): -23.0
+- HRV: 94 ms
 - Training readiness: 1/100
 
-**Days to 50k Ultra:** 4
+**Days to 50k Ultra:** 3
 
 ## Week of 2026-03-09
 📅 **Weekly Summary — 09 Mar to 15 Mar**
